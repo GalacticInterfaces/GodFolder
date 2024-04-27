@@ -1,3 +1,3 @@
 # GodFolder
 
-A private project I am working on.
+Home to afterlife, and storage of all my project files.
